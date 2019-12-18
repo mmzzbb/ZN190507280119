@@ -11,3 +11,4 @@
   第一步，用命令git add告诉Git，把文件添加到仓库：
     $ git add readme.txt
   第二步，用命令git commit告诉Git，把文件提交到仓库：
+   $ git commit -m "wrote a readme file"简单解释一下git commit命令，-m后面输入的是本次提交的说明，可以输入任意内容，当然最好是有意义的，这样你就能从历史记录里方便地找到改动记录。
